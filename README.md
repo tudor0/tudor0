@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @tudor0
-- 👀 I’m interested in html and css
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on html and css
+- 👀 I’m interested in learning javascript and react.js 
+- 🌱 I’m currently learning html, css, javascript, bootstrap, and many more
