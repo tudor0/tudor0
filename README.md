@@ -1,6 +1,6 @@
 ### Hi there, I'm Tudor 👋
 
-## I'm a Student, and Front-end Developer!!
+## I'm a Student and Front-end Developer!!
 
 - 🌱 I’m currently learning React, Typescript and Node.js
 - 👯 I’m looking to grow as a developer
