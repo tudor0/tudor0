@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tudor0
 - 👀 I’m interested in learning javascript and react.js 
-- 🌱 I’m currently learning html, css, javascript, bootstrap, and many more
+- 🌱 I’m currently React!
 - If I didn't commit something in a day, just know I'm still working :)
