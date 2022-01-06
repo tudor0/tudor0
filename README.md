@@ -1,5 +1,5 @@
 ### Hi there, I'm Tudor 👋
-
+### 👈 She is *Light*
 ## I'm a Student and Front-end Developer!!
 
 - 🌱 I’m currently learning React, Typescript and Node.js
