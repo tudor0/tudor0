@@ -3,8 +3,8 @@
 ### Portfolio Site: https://tudordev.netlify.app/
 ## I'm a Student and Front-end Developer!!
 
-- 🌱 I’m currently learning Python and Node.js
-- 👯 I’m looking to grow as a developer
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to continue growing as a React developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cats
 
