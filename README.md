@@ -33,4 +33,4 @@
 ---
 
 [instagram]: https://www.instagram.com/_tudor0/
-[linkedin]: https://www.linkedin.com/in/tuglea-tudor/
+[linkedin]: https://www.linkedin.com/in/tudordev/
