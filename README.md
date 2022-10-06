@@ -1,9 +1,9 @@
 ### Hi there, I'm Tudor 👋
 ### 👈 She is *Light*
 ### Portfolio Site: https://tudordev.netlify.app/
-## I'm a Student and Front-end Developer!!
+## I'm a Front-end Developer!!
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to continue growing as a React developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cats
