@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to continue growing as a React developer
-- 🥅 2023 Goals: Create a useful project
+- 🥅 2023 Goals: Create a useful project (currently working on it :D )
 - ⚡ Fun fact: I love cats
 
 ### Connect with me:
